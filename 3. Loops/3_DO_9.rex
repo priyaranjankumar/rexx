@@ -8,6 +8,7 @@ DO var1 = start TO limit
     END Var2
 END Var1
 */
+trace R
 say "Multiplication Table"
 do i = 1 to 5
     say "Table of" i
